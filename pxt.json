@@ -1,5 +1,5 @@
 {
-    "name": "events",
+    "name": "oneKnightThing",
     "dependencies": {
         "device": "*"
     },
